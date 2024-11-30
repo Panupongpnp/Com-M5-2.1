@@ -30,5 +30,5 @@ money_Torn = money - (moo_sub + mamaTomyam + PaKaPong + Kai + Coffee
                       + KaiHome_Touy + Water_brown + PongShuRost
                       + Pepsi + ChaThai)
 
-print(f'เเเMoney Torn is {money_Torn:.2f} Baht.')
+print(f'Money Torn is {money_Torn:.2f} Baht.')
 print(f'Price is {price} Baht.')
