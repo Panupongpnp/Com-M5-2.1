@@ -1,7 +1,7 @@
 money = 1000
 
-moo_sub = 150
-mamaTomyam = 6.50
+Moo_sub = 150
+MamaTomyam = 6.50
 PaKaPong = 10
 Kai = 120.25
 Coffee = 15.75
@@ -18,7 +18,7 @@ PongShuRost = 10.25
 Pepsi = 29.50
 ChaThai = 11.50
 
-price = (moo_sub + mamaTomyam + PaKaPong + Kai + Coffee
+price = (Moo_sub + MamaTomyam + PaKaPong + Kai + Coffee
          + Water + OokKai + KhaoSarn + SortNamManHoi
          + CharKhey + KanomPangObNoey + Water_Solid
          + KaiHome_Touy + Water_brown + PongShuRost
